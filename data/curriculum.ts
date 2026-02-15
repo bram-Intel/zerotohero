@@ -27,7 +27,7 @@ export const fullCurriculum: Curriculum = {
               title: "Hardware vs Software",
               description: "Physical components vs. Instructions.",
               content: "Hardware is what you can kick; Software is what you can curse at. We distinguish between Applications (User tools), System Software (OS), and Drivers (Translators).",
-              videoId: "8UkK4RCQrjM", // Mapleson Digital: Hardware vs Software
+              videoId: "xnyFYiK2rSY", // GCFGlobal: Hardware vs Software
               activity: "Open your laptop settings and identify 3 pieces of hardware (e.g., Processor name) and 3 installed applications.",
               duration: "1.5 hrs",
               blogLink: "https://www.simplilearn.com/difference-between-hardware-and-software-article",
@@ -38,7 +38,7 @@ export const fullCurriculum: Curriculum = {
               title: "Running a Program",
               description: "What happens when you double-click?",
               content: "We demystify the 'double-click'. Learn about executable files, how the OS loads code from HDD to RAM, and how the CPU starts executing instructions.",
-              videoId: "DKGZlaPbYx8", // CrashCourse: Instructions & Programs
+              videoId: "DKGZlaPlVLY", // Code.org: How Computers Work (CPU)
               activity: "Open Task Manager (Windows) or Activity Monitor (Mac) and watch what happens to RAM/CPU when you open a heavy app.",
               duration: "1.5 hrs",
               blogLink: "https://www.howtogeek.com/136427/htg-explains-what-actually-happens-when-you-launch-a-program/",
@@ -55,7 +55,7 @@ export const fullCurriculum: Curriculum = {
               title: "Operating Systems",
               description: "Windows, Mac, Linux and their roles.",
               content: "The OS is the boss. It manages hardware resources for software. We explore processes, background services, and the kernel.",
-              videoId: "26QPDBe-TQ8", // GCFLearnFree: What is an OS
+              videoId: "F0f5C3Fk_Hw", // Miacademy: Operating Systems
               activity: "Identify your OS version. Find a background process running on your machine that you didn't open.",
               duration: "1.5 hrs",
               blogLink: "https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/",
