@@ -19,7 +19,7 @@ export const fullCurriculum: Curriculum = {
               videoId: "AkFi90lZmXA", // Swapped to Crash Course Computer Science #1 (Guaranteed Embed Permissions)
               activity: "Analyze everyday systems: ATM machine, POS terminal, smartphone. Identify the Input, Process, and Output for each.",
               duration: "1.5 hrs",
-              blogLink: "https://www.geeksforgeeks.org/what-is-computer/",
+              blogLink: "https://www.geeksforgeeks.org/computer-science-fundamentals/basics-of-computer-and-its-operations/",
               blogTitle: "GeeksforGeeks: What is a Computer?"
             },
             {
@@ -41,7 +41,7 @@ export const fullCurriculum: Curriculum = {
               videoId: "DKGZlaPlVLY", // Code.org: How Computers Work (CPU)
               activity: "Open Task Manager (Windows) or Activity Monitor (Mac) and watch what happens to RAM/CPU when you open a heavy app.",
               duration: "1.5 hrs",
-              blogLink: "https://www.howtogeek.com/136427/htg-explains-what-actually-happens-when-you-launch-a-program/",
+              blogLink: "https://www.geeksforgeeks.org/introduction-of-process-management/",
               blogTitle: "HowToGeek: What Happens When You Launch an App"
             }
           ]
@@ -69,7 +69,7 @@ export const fullCurriculum: Curriculum = {
               videoId: "42iQKuQodW4", // Intro to File Systems
               activity: "Create a nested folder structure. Create a text file, rename its extension to .html, and see how the icon changes.",
               duration: "2 hrs",
-              blogLink: "https://edu.gcfglobal.org/en/windowsbasics/working-with-files/1/",
+              blogLink: "https://www.geeksforgeeks.org/file-systems-in-operating-system/",
               blogTitle: "GCFGlobal: Working with Files"
             },
             {
