@@ -55,7 +55,7 @@ export const fullCurriculum: Curriculum = {
               title: "Operating Systems",
               description: "Windows, Mac, Linux and their roles.",
               content: "The OS is the boss. It manages hardware resources for software. We explore processes, background services, and the kernel.",
-              videoId: "F-h8jE40R1g", // Simplilearn: Operating Systems
+              videoId: "RhHMgkUdhdk", // Code.org: What Makes a Computer
               activity: "Identify your OS version. Find a background process running on your machine that you didn't open.",
               duration: "1.5 hrs",
               blogLink: "https://www.geeksforgeeks.org/what-is-an-operating-system/",
@@ -112,7 +112,7 @@ export const fullCurriculum: Curriculum = {
               title: "What Is an Algorithm?",
               description: "A recipe for solving problems.",
               content: "An algorithm is just a step-by-step instruction set. Computers need zero ambiguity. If you don't say it, they don't do it.",
-              videoId: "6hfOvs8pY1k", // TED-Ed: What is an algorithm?
+              videoId: "k_B-p2kL_8s", // Khan Academy: What is an algorithm?
               activity: "Write strict instructions for 'Making a Cup of Tea'. Hand it to a friend (or imagine a robot) following it literally. Where does it fail?",
               duration: "1.5 hrs",
               blogLink: "https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/",
@@ -123,7 +123,7 @@ export const fullCurriculum: Curriculum = {
               title: "Flowcharts",
               description: "Visualizing logic.",
               content: "Standard shapes: Ovals for Start/End, Diamonds for Decisions (Yes/No), Rectangles for Processes. Loops are just arrows going back up.",
-              videoId: "mCq8-xTH7jA", // GCFGlobal: Flowchart Concepts
+              videoId: "THKZQ6JTDZA", // Lucidchart: Flowchart Tutorial
               activity: "Draw a physical flowchart for an ATM withdrawal process, including error states (Wrong PIN, Insufficient Funds).",
               duration: "1.5 hrs",
               blogLink: "https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial",
@@ -134,7 +134,7 @@ export const fullCurriculum: Curriculum = {
               title: "Decomposition",
               description: "Breaking big problems into small ones.",
               content: "You can't 'build an app'. You CAN 'draw a button', then 'make button click', then 'send data'. That is decomposition.",
-              videoId: "sI9e_3P6f1I", // Curriki: Decomposition
+              videoId: "VTIJ-HBFZyo", // Computer Science Basics: Decomposition
               activity: "Decompose a 'Food Delivery App' into 5 major components, and break one component into 3 sub-steps.",
               duration: "1.5 hrs",
               blogLink: "https://www.bbc.co.uk/bitesize/guides/zqqfyrd/revision/1",
@@ -151,7 +151,7 @@ export const fullCurriculum: Curriculum = {
               title: "Variables",
               description: "Labeled boxes for data.",
               content: "A variable is a container. It has a name (Label) and a value (Content). RAM stores these boxes.",
-              videoId: "yE9v9rt6ziw", // Mosh: Python Variables
+              videoId: "zW_tH1V54-o", // Khan Academy: Variables
               activity: "Write on paper: name='John', age=25. If age = age + 1, what is in the box now?",
               duration: "1.5 hrs",
               blogLink: "https://realpython.com/python-variables/",
@@ -208,7 +208,7 @@ export const fullCurriculum: Curriculum = {
               title: "Input & Output",
               description: "Talking to the user.",
               content: "Using `input()` to get data and `print()` to show it. The program pauses and waits for the human.",
-              videoId: "KIlnaE_90H0", // Telusko: Input and Output
+              videoId: "_y9W10zJk_w", // Khan Academy: User Input
               activity: "Build a Greeting Program: Ask for Name, ask for Color, print a sentence combining them.",
               duration: "1.5 hrs",
               blogLink: "https://www.w3schools.com/python/python_user_input.asp",
@@ -253,7 +253,7 @@ export const fullCurriculum: Curriculum = {
               title: "Errors are Friends",
               description: "Syntax vs Runtime vs Logic errors.",
               content: "Red text isn't a failure, it's a clue. Professional developers spend 50% of their time debugging. Syntax = Grammar mistake. Runtime = Crash. Logic = Wrong answer but no crash.",
-              videoId: "kYm5u_xX_kE", // Code.org: Debugging
+              videoId: "auv10h-3jgM", // Code.org: Debugging (Alternative)
               activity: "Take a working program, remove a parenthesis, run it. Read the error message closely.",
               duration: "2 hrs",
               blogLink: "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
@@ -340,7 +340,7 @@ export const fullCurriculum: Curriculum = {
               title: "Project Setup & Logic",
               description: "Combining Python/JS logic with HTML.",
               content: "We will structure data for a To-Do list. We separate the 'State' (The list of items in memory) from the 'UI' (What the user sees). When State changes, the UI updates automatically.",
-              videoId: "w7ejDZ8SWx8", // FreeCodeCamp: React Todo App
+              videoId: "hQAHSlTtcmY", // Web Dev Simplified: React in 100 Seconds
               activity: "Build the 'Add Item' function. Ensure the list updates.",
               duration: "4 hrs",
               blogLink: "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning",
