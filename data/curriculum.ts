@@ -19,8 +19,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "AkFi90lZmXA", // Swapped to Crash Course Computer Science #1 (Guaranteed Embed Permissions)
               activity: "Analyze everyday systems: ATM machine, POS terminal, smartphone. Identify the Input, Process, and Output for each.",
               duration: "1.5 hrs",
-              blogLink: "https://edu.gcfglobal.org/en/computerbasics/what-is-a-computer/1/",
-              blogTitle: "GCFGlobal: What is a Computer?"
+              blogLink: "https://www.geeksforgeeks.org/what-is-computer/",
+              blogTitle: "GeeksforGeeks: What is a Computer?"
             },
             {
               id: "lesson-2",
@@ -30,8 +30,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "xnyFYiK2rSY", // GCFGlobal: Hardware vs Software
               activity: "Open your laptop settings and identify 3 pieces of hardware (e.g., Processor name) and 3 installed applications.",
               duration: "1.5 hrs",
-              blogLink: "https://www.simplilearn.com/difference-between-hardware-and-software-article",
-              blogTitle: "Simplilearn: Hardware vs Software"
+              blogLink: "https://www.geeksforgeeks.org/difference-between-hardware-and-software/",
+              blogTitle: "GeeksforGeeks: Hardware vs Software"
             },
             {
               id: "lesson-3",
@@ -58,8 +58,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "F0f5C3Fk_Hw", // Miacademy: Operating Systems
               activity: "Identify your OS version. Find a background process running on your machine that you didn't open.",
               duration: "1.5 hrs",
-              blogLink: "https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/",
-              blogTitle: "GCFGlobal: Understanding Operating Systems"
+              blogLink: "https://www.geeksforgeeks.org/what-is-an-operating-system/",
+              blogTitle: "GeeksforGeeks: Operating Systems Explained"
             },
             {
               id: "lesson-5",
@@ -80,8 +80,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "5XgBd6rjuDQ", // Corey Schafer: Terminal/Bash
               activity: "Open Terminal/PowerShell. Navigate to your Desktop. Create a folder named 'FutureDev' using only the command line.",
               duration: "2 hrs",
-              blogLink: "https://www.freecodecamp.org/news/command-line-interface-for-beginners/",
-              blogTitle: "FreeCodeCamp: Command Line for Beginners"
+              blogLink: "https://ubuntu.com/tutorials/command-line-for-beginners",
+              blogTitle: "Ubuntu: Command Line for Beginners"
             },
             {
               id: "lesson-8",
@@ -115,8 +115,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "Da5TOZY-HMw", // TED-Ed: What is an algorithm
               activity: "Write strict instructions for 'Making a Cup of Tea'. Hand it to a friend (or imagine a robot) following it literally. Where does it fail?",
               duration: "1.5 hrs",
-              blogLink: "https://www.bbc.co.uk/bitesize/guides/z3sgjxs/revision/1",
-              blogTitle: "BBC Bitesize: What is an algorithm?"
+              blogLink: "https://www.freecodecamp.org/news/introduction-to-algorithms-with-javascript-examples/",
+              blogTitle: "FreeCodeCamp: Intro to Algorithms"
             },
             {
               id: "lesson-10",
@@ -126,8 +126,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "S5i_diK1Z-A", // Tech Ed: Flowcharts
               activity: "Draw a physical flowchart for an ATM withdrawal process, including error states (Wrong PIN, Insufficient Funds).",
               duration: "1.5 hrs",
-              blogLink: "https://www.zenflowchart.com/flowchart-symbols",
-              blogTitle: "ZenFlowchart: Flowchart Symbols"
+              blogLink: "https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial",
+              blogTitle: "LucidChart: What is a Flowchart?"
             },
             {
               id: "lesson-11",
@@ -154,8 +154,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "v2yG8-b1Fq4", // Algebra to Code variables
               activity: "Write on paper: name='John', age=25. If age = age + 1, what is in the box now?",
               duration: "1.5 hrs",
-              blogLink: "https://www.w3schools.com/python/python_variables.asp",
-              blogTitle: "W3Schools: Python Variables"
+              blogLink: "https://realpython.com/python-variables/",
+              blogTitle: "RealPython: Python Variables"
             },
             {
               id: "lesson-14",
@@ -291,8 +291,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "s7wmiS2mSxs", // MuleSoft: What is an API
               activity: "Use a free browser-based API tool (like Thunder Client or Browser) to fetch data from pokeapi.co.",
               duration: "2 hrs",
-              blogLink: "https://www.freecodecamp.org/news/what-is-an-api-in-english-please/",
-              blogTitle: "FreeCodeCamp: What is an API?"
+              blogLink: "https://www.postman.com/what-is-an-api/",
+              blogTitle: "Postman: What is an API?"
             },
             {
               id: "lesson-27",
@@ -343,8 +343,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "pEOcr2t03oM", // To Do List Project Tutorial (Generic)
               activity: "Build the 'Add Item' function. Ensure the list updates.",
               duration: "4 hrs",
-              blogLink: "https://www.freecodecamp.org/news/how-to-build-a-todo-app-from-scratch-with-react-js/",
-              blogTitle: "FreeCodeCamp: Build a React Todo App"
+              blogLink: "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning",
+              blogTitle: "MDN Web Docs: React To-Do List"
             }
           ]
         }
@@ -367,8 +367,8 @@ export const fullCurriculum: Curriculum = {
               videoId: "zjkBMFhNj_g", // Intro to LLMs
               activity: "Ask ChatGPT a technical question. Verify the answer by running the code. Does it work?",
               duration: "1.5 hrs",
-              blogLink: "https://www.elastic.co/what-is/large-language-models",
-              blogTitle: "Elastic: What is an LLM?"
+              blogLink: "https://www.cloudflare.com/learning/ai/what-is-large-language-model/",
+              blogTitle: "Cloudflare: What is an LLM?"
             },
             {
               id: "lesson-37",
