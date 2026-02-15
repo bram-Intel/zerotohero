@@ -123,7 +123,7 @@ export const fullCurriculum: Curriculum = {
               title: "Flowcharts",
               description: "Visualizing logic.",
               content: "Standard shapes: Ovals for Start/End, Diamonds for Decisions (Yes/No), Rectangles for Processes. Loops are just arrows going back up.",
-              videoId: "X6YvI_c9yF4", // Code.org: Flowcharts
+              videoId: "SWRDqTx8d4k", // Robot Riedinger: Introduction to Creating Flowcharts (oEmbed verified)
               activity: "Draw a physical flowchart for an ATM withdrawal process, including error states (Wrong PIN, Insufficient Funds).",
               duration: "1.5 hrs",
               blogLink: "https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial",
@@ -151,7 +151,7 @@ export const fullCurriculum: Curriculum = {
               title: "Variables",
               description: "Labeled boxes for data.",
               content: "A variable is a container. It has a name (Label) and a value (Content). RAM stores these boxes.",
-              videoId: "v2yG8-b1Fq4", // Code.org: Variables
+              videoId: "cQT33yu9pY8", // Mosh: Python Variables (oEmbed verified)
               activity: "Write on paper: name='John', age=25. If age = age + 1, what is in the box now?",
               duration: "1.5 hrs",
               blogLink: "https://realpython.com/python-variables/",
@@ -253,7 +253,7 @@ export const fullCurriculum: Curriculum = {
               title: "Errors are Friends",
               description: "Syntax vs Runtime vs Logic errors.",
               content: "Red text isn't a failure, it's a clue. Professional developers spend 50% of their time debugging. Syntax = Grammar mistake. Runtime = Crash. Logic = Wrong answer but no crash.",
-              videoId: "1S0aBV-WfH8", // Crash Course Engineering: Debugging
+              videoId: "UFc-RPbq8kg", // Fireship: Problem-Solving for Developers (oEmbed verified)
               activity: "Take a working program, remove a parenthesis, run it. Read the error message closely.",
               duration: "2 hrs",
               blogLink: "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
@@ -288,7 +288,7 @@ export const fullCurriculum: Curriculum = {
               title: "APIs",
               description: "Software talking to software.",
               content: "Application Programming Interface. It's like a waiter in a restaurant taking your order to the kitchen (server) and bringing food back. We use JSON (JavaScript Object Notation) as the universal language for this exchange.",
-              videoId: "ovm0-C68yVw", // Postman: What is an API?
+              videoId: "GZvSYJDk-us", // freeCodeCamp: APIs for Beginners (oEmbed verified)
               activity: "Use a free browser-based API tool (like Thunder Client or Browser) to fetch data from pokeapi.co.",
               duration: "2 hrs",
               blogLink: "https://www.postman.com/what-is-an-api/",
