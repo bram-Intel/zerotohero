@@ -123,7 +123,7 @@ export const fullCurriculum: Curriculum = {
               title: "Flowcharts",
               description: "Visualizing logic.",
               content: "Standard shapes: Ovals for Start/End, Diamonds for Decisions (Yes/No), Rectangles for Processes. Loops are just arrows going back up.",
-              videoId: "SH2oLCUC-WA", // Flowcharts in Programming
+              videoId: "SH2oLCUC-WA", // Flowcharts in Programming (Keeping - verify if works)
               activity: "Draw a physical flowchart for an ATM withdrawal process, including error states (Wrong PIN, Insufficient Funds).",
               duration: "1.5 hrs",
               blogLink: "https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial",
@@ -151,7 +151,7 @@ export const fullCurriculum: Curriculum = {
               title: "Variables",
               description: "Labeled boxes for data.",
               content: "A variable is a container. It has a name (Label) and a value (Content). RAM stores these boxes.",
-              videoId: "_NPZjv3s5P0", // Bro Code: Python Variables
+              videoId: "cQT33yu9pY8", // Mosh: Python Variables
               activity: "Write on paper: name='John', age=25. If age = age + 1, what is in the box now?",
               duration: "1.5 hrs",
               blogLink: "https://realpython.com/python-variables/",
@@ -208,7 +208,7 @@ export const fullCurriculum: Curriculum = {
               title: "Input & Output",
               description: "Talking to the user.",
               content: "Using `input()` to get data and `print()` to show it. The program pauses and waits for the human.",
-              videoId: "TuI9d1e3y_I", // Bro Code: Python Input
+              videoId: "uD0bW0cKwPM", // Python Input Function Explained
               activity: "Build a Greeting Program: Ask for Name, ask for Color, print a sentence combining them.",
               duration: "1.5 hrs",
               blogLink: "https://www.w3schools.com/python/python_user_input.asp",
@@ -253,7 +253,7 @@ export const fullCurriculum: Curriculum = {
               title: "Errors are Friends",
               description: "Syntax vs Runtime vs Logic errors.",
               content: "Red text isn't a failure, it's a clue. Professional developers spend 50% of their time debugging. Syntax = Grammar mistake. Runtime = Crash. Logic = Wrong answer but no crash.",
-              videoId: "M9K1K8C0Rqk", // Code.org: Introduction to Debugging
+              videoId: "z14E6_tI9Kk", // Code.org: How To Debug
               activity: "Take a working program, remove a parenthesis, run it. Read the error message closely.",
               duration: "2 hrs",
               blogLink: "https://www.freecodecamp.org/news/common-errors-in-python-and-how-to-fix-them/",
@@ -288,7 +288,7 @@ export const fullCurriculum: Curriculum = {
               title: "APIs",
               description: "Software talking to software.",
               content: "Application Programming Interface. It's like a waiter in a restaurant taking your order to the kitchen (server) and bringing food back. We use JSON (JavaScript Object Notation) as the universal language for this exchange.",
-              videoId: "s7wmiS2mSxs", // MuleSoft: What is an API
+              videoId: "GZv_uK1t_oY", // FreeCodeCamp: APIs for Beginners
               activity: "Use a free browser-based API tool (like Thunder Client or Browser) to fetch data from pokeapi.co.",
               duration: "2 hrs",
               blogLink: "https://www.postman.com/what-is-an-api/",
