@@ -1,69 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ZeroToHero Dev | Master Coding from Scratch</title>
-    <meta name="description" content="A complete, free, interactive coding curriculum to take you from absolute beginner to full-stack developer. Learn Algorithms, APIs, Git, and more." />
-    
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://zerotohero-dev.vercel.app/" />
-    <meta property="og:title" content="ZeroToHero Dev | Master Coding from Scratch" />
-    <meta property="og:description" content="A complete, free, interactive coding curriculum to take you from absolute beginner to full-stack developer. Learn Algorithms, APIs, Git, and more." />
-    <meta property="og:image" content="/og-image.png" />
 
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://zerotohero-dev.vercel.app/" />
-    <meta property="twitter:title" content="ZeroToHero Dev | Master Coding from Scratch" />
-    <meta property="twitter:description" content="A complete, free, interactive coding curriculum to take you from absolute beginner to full-stack developer. Learn Algorithms, APIs, Git, and more." />
-    <meta property="twitter:image" content="/og-image.png" />
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ZeroToHero Dev | Master Coding from Scratch</title>
+  <meta name="description"
+    content="A complete, free, interactive coding curriculum to take you from absolute beginner to full-stack developer. Learn Algorithms, APIs, Git, and more." />
 
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-    <script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            fontFamily: {
-              sans: ['Inter', 'sans-serif'],
-              mono: ['JetBrains Mono', 'monospace'],
-            },
-            colors: {
-              cyber: {
-                dark: '#05050A',
-                panel: '#0F111A',
-                accent: '#00F0FF',
-                dim: '#546E7A',
-                success: '#00FF9D',
-                warning: '#FFD600'
-              }
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://zerotohero-dev.vercel.app/" />
+  <meta property="og:title" content="ZeroToHero Dev | Master Coding from Scratch" />
+  <meta property="og:description"
+    content="A complete, free, interactive coding curriculum to take you from absolute beginner to full-stack developer. Learn Algorithms, APIs, Git, and more." />
+  <meta property="og:image" content="https://zerotohero-dev.vercel.app/og-image.png" />
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:url" content="https://zerotohero-dev.vercel.app/" />
+  <meta property="twitter:title" content="ZeroToHero Dev | Master Coding from Scratch" />
+  <meta property="twitter:description"
+    content="A complete, free, interactive coding curriculum to take you from absolute beginner to full-stack developer. Learn Algorithms, APIs, Git, and more." />
+  <meta property="twitter:image" content="/og-image.png" />
+
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@400;700&display=swap"
+    rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace'],
+          },
+          colors: {
+            cyber: {
+              dark: '#05050A',
+              panel: '#0F111A',
+              accent: '#00F0FF',
+              dim: '#546E7A',
+              success: '#00FF9D',
+              warning: '#FFD600'
             }
           }
         }
       }
-    </script>
-    <style>
-      body {
-        background-color: #05050A;
-        color: #E2E8F0;
-      }
-      /* Custom Scrollbar */
-      ::-webkit-scrollbar {
-        width: 8px;
-      }
-      ::-webkit-scrollbar-track {
-        background: #0F111A; 
-      }
-      ::-webkit-scrollbar-thumb {
-        background: #334155; 
-        border-radius: 4px;
-      }
-      ::-webkit-scrollbar-thumb:hover {
-        background: #00F0FF; 
-      }
-    </style>
+    }
+  </script>
+  <style>
+    body {
+      background-color: #05050A;
+      color: #E2E8F0;
+    }
+
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+      background: #0F111A;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background: #334155;
+      border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+      background: #00F0FF;
+    }
+  </style>
   <script type="importmap">
 {
   "imports": {
@@ -75,10 +85,12 @@
   }
 }
 </script>
-<link rel="stylesheet" href="/index.css">
+  <link rel="stylesheet" href="/index.css">
 </head>
-  <body>
-    <div id="root"></div>
+
+<body>
+  <div id="root"></div>
   <script type="module" src="/index.tsx"></script>
 </body>
+
 </html>
